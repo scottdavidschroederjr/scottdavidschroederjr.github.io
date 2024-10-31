@@ -125,9 +125,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/scottdavidschroederjr"
-    - label: "Instagram"
+    - label: "Twitch"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/scottuntitled/"
+      url: "https://www.twitch.tv/saveasuntitled/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.youtube.com/channel/UCqnjO2gsFm5CrcdV0dTTx0g"
 
 # Site Footer
 footer:
