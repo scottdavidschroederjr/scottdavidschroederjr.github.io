@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Scott Schroeder"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/files/profileImage.jpeg"
   bio              : "Trying to get a little better every day."
   location         : "Philadelphia"
   email            :
