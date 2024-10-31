@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Scott Schroeder"
-  avatar           : "/files/profileImage.jpeg"
+  avatar           : "/files/images/profileImage.jpeg"
   bio              : "Trying to get a little better every day."
   location         : "Philadelphia"
   email            :
@@ -126,10 +126,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/scottdavidschroederjr"
     - label: "Twitch"
-      icon: "fab fa-fw fa-instagram"
+      icon: "/files/images/twitchIcon.png"
       url: "https://www.twitch.tv/saveasuntitled/"
     - label: "YouTube"
-      icon: "fab fa-fw fa-instagram"
+      icon: "/files/images/youtubeIcon.png"
       url: "https://www.youtube.com/channel/UCqnjO2gsFm5CrcdV0dTTx0g"
 
 # Site Footer
