@@ -126,10 +126,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/scottdavidschroederjr"
     - label: "Twitch"
-      icon: "/files/images/twitchIcon.png"
+      icon: "fa-brands fa-twitch"
       url: "https://www.twitch.tv/saveasuntitled/"
     - label: "YouTube"
-      icon: "/files/images/youtubeIcon.png"
+      icon: "fa-brands fa-square-youtube"
       url: "https://www.youtube.com/channel/UCqnjO2gsFm5CrcdV0dTTx0g"
 
 # Site Footer
