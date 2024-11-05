@@ -5,8 +5,7 @@ layout: archive
 ---
 
 ## Projects
-
-This is a page where I'll link to all of my coding projects I've worked on throughout the years...
+My coding projects I've worked on over the years. Click on the link to head to the GitHub repo for each project for more information.
 
 
 ## [Powershell GUI](https://github.com/scottdavidschroederjr/powershellGUI) 
