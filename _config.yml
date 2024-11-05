@@ -312,3 +312,19 @@ defaults:
       comments: # true
       share: true
       related: true
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Resume"
+    url: /Resume/
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /Projects/
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Content"
+    url: /content/
