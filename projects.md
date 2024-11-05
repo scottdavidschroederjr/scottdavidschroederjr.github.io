@@ -4,7 +4,6 @@ permalink: /projects/
 layout: archive
 ---
 
-## Projects
 My coding projects I've worked on over the years. Click on the link to head to the GitHub repo for each project for more information.
 
 ## [Powershell GUI](https://github.com/scottdavidschroederjr/powershellGUI)
