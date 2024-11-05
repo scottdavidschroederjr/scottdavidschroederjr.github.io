@@ -10,5 +10,5 @@ This is a page where I'll link to all of my coding projects I've worked on throu
 
 
 ## Powershell GUI
-<img src="../files/images/powershellExample.jpg" alt="GUI Example" width="150" height="150">
+<img src="/files/images/powershellExample.jpg" alt="GUI Example" width="150" height="150">
 Use Tkinter and PyInstaller to create an executable GUI that runs PowerShell commands to speed up the process of adding users to AD software groups.
