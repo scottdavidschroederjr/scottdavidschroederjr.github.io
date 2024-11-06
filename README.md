@@ -12,7 +12,4 @@ TODO GENERAL
 PROJECTS TODO
 - Standardize photo size on the page
 - Stylize the little sections more to make it more visually appealing
-- add challengerStats
-- add duoStats
-- add hearthSim
   
