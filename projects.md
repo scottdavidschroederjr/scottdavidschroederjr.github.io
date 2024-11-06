@@ -21,6 +21,6 @@ The goal of this project is provide a customizable one site solution for all the
 Allow TFT players to see how they perform when duoing with another player. [add info that is more tailored to the coding side of this]
 
 ## [hearthSim](https://github.com/scottdavidschroederjr/hearthSim)
-<img src="/files/images/hearthsimSite.jpg" alt="pokeGen Example" width="121" height="199" style="float: right; margin-right: 10px;">
+<img src="/files/images/hearthsimSite.jpg" alt="pokeGen Example" width="250" height="175" style="float: right; margin-right: 10px;">
 Allows Hearthstone players to simulate pack openings to predict how many more packs they need to buy to complete a set. [add info that is more tailored to the coding side of this]
 
