@@ -11,12 +11,13 @@ search: false
 
 //CSS for projects page
 .projectOuterBox {
-  top: 300px;
+  position: absolute;
+  left: 465px;
+  top: 242px;
   width: 458px;
-  height: 350px;
+  height: 242px;
   background: #B1B2B5;
   border-radius: 0px;
-  align: center;
 }
 .projectTitleBox {
   display: flex;
@@ -59,7 +60,7 @@ search: false
   width: 506px;
   height: 152px;
   padding: 10px;
-  font-size: 20px;
+  font-size: 24px;
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
