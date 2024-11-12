@@ -10,7 +10,7 @@ My coding projects I've worked on over the years. Click on the link to head to t
 
 <div class="projectOuterBox">
    <div class="projectTitleBox">
-      <div class="projectTitle"> Powershell GUI(https://github.com/scottdavidschroederjr/powershellGUI)
+      <div class="projectTitle"> [Powershell GUI](https://github.com/scottdavidschroederjr/powershellGUI)
          <img class= "projectLangImage" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
       </div>
    </div>
