@@ -306,6 +306,7 @@ defaults:
       path: ""
       type: posts
     values:
+      css: ["assets/css/main.scss"]
       layout: single
       author_profile: true
       read_time: true
