@@ -6,6 +6,18 @@ layout: archive
 
 My coding projects I've worked on over the years. Click on the link to head to the GitHub repo for each project for more information.
 
+<div class="projectOuterBox">
+   <div class="projectTitleBox">
+      <div class="projectTitle"> Powershell GUI
+         <img class= "projectLangImage" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+      </div>
+   </div>
+   <div class="photoInfoBox">
+      <div><img class= "projectExampleImage" src="https://i.imgur.com/S0OTwdE.jpeg"></div>
+      <div class= "projectDescribe">Use Tkinter and PyInstaller to create an executable GUI that runs PowerShell commands to speed up the process of adding users to AD software groups.</div>
+   </div>
+</div>
+
 ## [Powershell GUI](https://github.com/scottdavidschroederjr/powershellGUI)
 <img src="/files/images/powershellExample.jpg" alt="GUI Example" width="100" height="100" style="float: right; margin-right: 10px;">
 Use Tkinter and PyInstaller to create an executable GUI that runs PowerShell commands to speed up the process of adding users to AD software groups.
