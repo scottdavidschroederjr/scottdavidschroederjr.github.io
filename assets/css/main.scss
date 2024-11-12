@@ -7,3 +7,64 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+//CSS for projects page
+.projectOuterBox {
+  position: absolute;
+  left: 465px;
+  top: 242px;
+  width: 458px;
+  height: 242px;
+  background: #B1B2B5;
+  border-radius: 0px;
+}
+.projectTitleBox {
+  display: flex;
+  left: 465px;
+  top: 142px;
+  width: 458px;
+  height: 63px;
+  background: #3D3333;
+  border-radius: 0px;
+}
+.projectTitle {
+  font-family: "Inter";
+  color: rgba(255, 255, 255, 1);
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  padding: 6px;
+  display: flex;
+}
+.projectLangImage {
+   width: 50px;
+   height: 60px;
+   padding: 0px 0px 0px 100px;
+   align-content: end
+}
+.projectExampleImage {
+  left: 486px;
+  top: 316px;
+  width: 106px;
+  height: 152px;
+  padding: 10px;
+  display: flex;
+}
+.projectDescribe {
+  left: 486px;
+  top: 316px;
+  width: 506px;
+  height: 152px;
+  padding: 10px;
+  font-size: 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+}
+.photoInfoBox {
+  display: flex;
+}
