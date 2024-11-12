@@ -11,15 +11,16 @@ My coding projects I've worked on over the years. Click on the link to head to t
 
 
 <div class="projectOuterBox">
-   <div class="projectTitleBox">
-      <div class="projectTitle"><a href="(https://github.com/scottdavidschroederjr/powershellGUI)">Powershell GUI</a>
-         <img class= "projectLangImage" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-      </div>
-   </div>
-   <div class="photoInfoBox">
-      <div><img class= "projectExampleImage" src="https://i.imgur.com/S0OTwdE.jpeg"></div>
+  <div class="projectTitleBox">
+    <div class="projectTitle">
+        <a href="(https://github.com/scottdavidschroederjr/powershellGUI)">Powershell GUI</a>
+        <img class= "projectLangImage" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+    </div>
+    <div class="photoInfoBox">
+      <div> <img class= "projectExampleImage" src="https://i.imgur.com/S0OTwdE.jpeg"> </div>
       <div class= "projectDescribe">Use Tkinter and PyInstaller to create an executable GUI that runs PowerShell commands to speed up the process of adding users to AD software groups.</div>
-   </div>
+     </div>
+  </div>
 </div>
 
 ## [pokeGen](https://github.com/scottdavidschroederjr/pokeGen)
