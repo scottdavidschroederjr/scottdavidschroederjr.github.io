@@ -8,9 +8,11 @@ css:
 
 My coding projects I've worked on over the years. Click on the link to head to the GitHub repo for each project for more information.
 
+
+
 <div class="projectOuterBox">
    <div class="projectTitleBox">
-      <div class="projectTitle"> Powershell GUI
+      <div class="projectTitle"><a href="(https://github.com/scottdavidschroederjr/powershellGUI)">Powershell GUI</a>
          <img class= "projectLangImage" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
       </div>
    </div>
@@ -19,8 +21,6 @@ My coding projects I've worked on over the years. Click on the link to head to t
       <div class= "projectDescribe">Use Tkinter and PyInstaller to create an executable GUI that runs PowerShell commands to speed up the process of adding users to AD software groups.</div>
    </div>
 </div>
-
-[Powershell GUI](https://github.com/scottdavidschroederjr/powershellGUI)
 
 ## [pokeGen](https://github.com/scottdavidschroederjr/pokeGen)
 <img src="/files/images/pokeGenExample.jpg" alt="pokeGen Example" width="121" height="199" style="float: right; margin-right: 10px;">
