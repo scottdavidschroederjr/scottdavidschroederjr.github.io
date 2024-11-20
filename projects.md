@@ -28,6 +28,18 @@ This tool uses Puppeteer to pull data from the Smogon website to show which gene
 ## [challengerStats](https://github.com/scottdavidschroederjr/challengerStats)
 The goal of this project is provide a customizable one site solution for all the additional reference data a high level player needs to play competitive TFT at the highest level. [add info that is more tailored to the coding side of this]
 
+<div class="projectOuterBox">
+   <div class="projectTitleBox">
+      <div class="projectTitle"> challengerStats
+         <img class= "projectLangImage" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+      </div>
+   </div>
+   <div class="photoInfoBox">
+      <div><img class= "projectExampleImage" src="https://i.imgur.com/S0OTwdE.jpeg"></div>
+      <div class= "projectDescribe">The goal of this project is provide a customizable one site solution for all the additional reference data a high level player needs to play competitive TFT at the highest level. [add info that is more tailored to the coding side of this]</div>
+   </div>
+</div>
+
 ## [duoStats](https://github.com/scottdavidschroederjr/duoStats)
 Allow TFT players to see how they perform when duoing with another player. [add info that is more tailored to the coding side of this]
 
