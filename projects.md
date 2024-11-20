@@ -23,7 +23,19 @@ My coding projects I've worked on over the years. Click on the link to head to t
 
 ## [pokeGen](https://github.com/scottdavidschroederjr/pokeGen)
 <img src="/files/images/pokeGenExample.jpg" alt="pokeGen Example" width="121" height="199" style="float: right; margin-right: 10px;">
-This tool uses Puppeteer to pull data from the Smogon website to show which generation the selected Pokemon is most viable in competitive singles on a React site.
+
+
+<div class="projectOuterBox">
+   <div class="projectTitleBox">
+      <div class="projectTitle"> pokeGen
+         <img class= "projectLangImage" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+      </div>
+   </div>
+   <div class="photoInfoBox">
+      <div><img class= "projectExampleImage" src="https://i.imgur.com/S0OTwdE.jpeg"></div>
+      <div class= "projectDescribe">This tool uses Puppeteer to pull data from the Smogon website to show which generation the selected Pokemon is most viable in competitive singles on a React site.</div>
+   </div>
+</div>
 
 <div class="projectOuterBox">
    <div class="projectTitleBox">
@@ -49,7 +61,17 @@ This tool uses Puppeteer to pull data from the Smogon website to show which gene
    </div>
 </div>
 
-## [hearthSim](https://github.com/scottdavidschroederjr/hearthSim)
-<img src="/files/images/hearthsimSite.jpg" alt="pokeGen Example" width="250" height="175" style="float: right; margin-right: 10px;">
-This Javascript based tool runs 10,000 simulations of card pack openings to allow Hearthstone players to predict how many more packs they need to buy to complete a set.
+<div class="projectOuterBox">
+   <div class="projectTitleBox">
+      <div class="projectTitle"> hearthSim
+         <img class= "projectLangImage" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+      </div>
+   </div>
+   <div class="photoInfoBox">
+      <div><img class= "projectExampleImage" src="https://i.imgur.com/S0OTwdE.jpeg"></div>
+      <div class= "projectDescribe">This Javascript based tool runs 10,000 simulations of card pack openings to allow Hearthstone players to predict how many more packs they need to buy to complete a set.</div>
+   </div>
+</div>
+
+
 
